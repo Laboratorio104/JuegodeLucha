@@ -27,7 +27,7 @@ Este es un proyecto simple en Java que simula un juego de pelea entre dos person
 2. **Compilar el Código**:
    - Abre una terminal (PowerShell) y navega a la carpeta del proyecto:
      ```
-     cd C:\Users\ferna\Downloads\JuegoLucha
+     cd C:\Users\tu-usuario\Downloads\JuegoLucha
      ```
    - Compila todos los archivos Java:
      ```
