@@ -1,0 +1,6 @@
+tipo1
+nombre1
+guerrero
+Jugador1
+mago
+Jugador2

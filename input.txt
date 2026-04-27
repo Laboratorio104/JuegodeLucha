@@ -1,0 +1,4 @@
+guerrero
+Jugador1
+mago
+Jugador2
